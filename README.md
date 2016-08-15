@@ -63,9 +63,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [All Contributors][link-contributors]
 
 
-## License
+## Licenses
 
-The MIT License (MIT) applies. Please see [License File](LICENSE) for more information.
+The [MIT License](LICENSE) and [DBAD Public License](link-dbad) applies. Please see [License File](LICENSE) for more information.
 
 [ico-version]: https://img.shields.io/packagist/v/zembrowski/itraq-php.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
@@ -85,3 +85,4 @@ The MIT License (MIT) applies. Please see [License File](LICENSE) for more infor
 [link-composer]: https://getcomposer.org
 [link-author]: https://github.com/zembrowski
 [link-contributors]: ../../contributors
+[link-dbad]: http://www.dbad-license.org/
