@@ -13,7 +13,7 @@ Contributions via Pull Requests on [Github](https://github.com/zembrowski/itraq-
 
 - **Document any change in behaviour** - Make sure the `README.md` and any other relevant documentation are kept up-to-date.
 
-- **Consider the release cycle** - Versioning nomenclature of [SemVer v2.0.0](http://semver.org/) is being applied.
+- **Consider the release cycle** - Versioning nomenclature of [Semantic Versioning 2.0.0](http://semver.org/) is being applied.
 
 - **Create feature branches** - Don't ask to pull from your master branch.
 
