@@ -65,7 +65,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Licenses
 
-The [MIT License](LICENSE) and [DBAD Public License](link-dbad) applies. Please see [License File](LICENSE) for more information.
+The [MIT License](LICENSE) and [DBAD Public License](link-dbad) apply. Please see [LICENSE](LICENSE) for more information.
 
 [ico-version]: https://img.shields.io/packagist/v/zembrowski/itraq-php.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
