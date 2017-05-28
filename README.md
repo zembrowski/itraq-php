@@ -11,7 +11,7 @@
 
 PHP wrapper for the iTraq API.
 
-iTraq is a celluar GPS tracking device which can be purchased at [itraq.com](http://itraq.refr.cc/2XCNJXX)
+iTraq is a celluar GPS tracking device which can be purchased at [itraq.com](https://www.itraq.com)
 
 
 ## Install
